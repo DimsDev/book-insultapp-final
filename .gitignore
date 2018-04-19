@@ -1,6 +1,5 @@
 # User-specific stuff:
 .idea/*
-
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
@@ -105,3 +104,4 @@ venv.bak/
 .~
 .directory
 # pour le commit
+# et un de plus
